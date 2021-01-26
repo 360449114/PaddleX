@@ -1,7 +1,7 @@
 简体中文| [English](./README.md)
 
 
-
+test
 
 <p align="center">
   <img src="./docs/gui/images/paddlex.png" width="360" height ="55" alt="PaddleX" align="middle" />
